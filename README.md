@@ -1,6 +1,6 @@
 [
   {
-    "beginner": "غیرمتبدی",
+    "beginner": "مبتدی",
     "practical": "کاربردی",
     "value": "دریافت وسایل",
     "rankup": "رنک آپ",

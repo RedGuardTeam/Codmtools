@@ -1,0 +1,16 @@
+[
+  {
+    "number_clan": "1",
+    "clan_name": "IRAN WAR",
+    "leader_name": "Mohammad",
+    "status": "Active",
+    "number_imge": "4"
+  },
+  {
+    "number_clan": "2",
+    "clan_name": "RED_GUARD_TEAM",
+    "leader_name": "Terrorist",
+    "status": "Active",
+    "number_imge": "2"
+  }
+]
